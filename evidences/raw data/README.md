@@ -17,6 +17,12 @@ The raw data in this folder may include JSON dumps containing:
 
 No attempt has been made to normalize, sanitize, or “clean” this data beyond what is required for storage integrity.
 
+## Warning
+
+This folder contains material that may be disturbing, including real chat messages involving predatory behavior.
+
+Proceed with caution and professional intent.
+
 ## Why This Data Is Preserved Raw
 
 Raw data is preserved because:
@@ -43,7 +49,5 @@ All data in this folder was collected **after or alongside repeated attempts to 
 The existence of this folder is not accidental.
 It exists because **institutional responses failed**, forcing community-level documentation to fill the gap.
 
-## Warning
-
-This folder contains material that may be disturbing, including real chat messages involving predatory behavior.
-Proceed with caution and professional intent.
+## Credits
+Chat logs extracted from [g0aty](https://github.com/g0aty) clients and predator archives have been extracted from [Among Us Files](https://tntaddict.net/aufiles)
