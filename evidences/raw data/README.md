@@ -9,9 +9,9 @@ This data is the foundation upon which all analyses, reports, and disclosures ar
 
 The raw data in this folder may include JSON dumps containing:
 
-* **In‑game names** used by predator accounts
-* **User IDs** as exposed by the game or related services
-* **Friend codes** used to initiate or maintain contact with minors
+* **In‑game names** used by predators
+* **User IDs** as exposed by the game
+* **Friend codes** of the predator accounts
 * **Chat messages**, preserved verbatim, demonstrating patterns of behavior, grooming attempts, or coordination
 * **Account linkages**, where observable, across multiple identifiers
 
